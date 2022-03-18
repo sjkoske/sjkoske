@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on [workout plans](https://github.com/sjkoske/sjkoske/blob/main/workoutplans.md)
 - 📫 How to reach me: [contacts](https://github.com/sjkoske/sjkoske/blob/main/Contacts.md)
 
-Here is a link to one some code I have written in [Python]()
+Here is a link to one some code I have written in [Python](https://github.com/sjkoske/sjkoske/blob/main/PythonCode.md)
 
 <!---
 sjkoske/sjkoske is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
