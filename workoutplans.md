@@ -32,4 +32,4 @@ The goal here is to train 5 days a week, hitting pull days and push days twice, 
 - [Mike Mentzer](https://preview.redd.it/8ggyll0asyk71.jpg?width=640&crop=smart&auto=webp&s=e2f6db51814d8311caee2559880d59d7183a24b6)
 - [zyzz](https://m.media-amazon.com/images/M/MV5BYmRhNjdlOGQtNGFmMy00ZjhmLTk4NDYtMjUzMWZlNDk1YWFjXkEyXkFqcGdeQXVyMzM5MTIxMzk@._V1_.jpg)
 
-[take me back to home](
+[take me back to home](https://github.com/sjkoske/sjkoske.git)
