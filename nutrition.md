@@ -11,4 +11,4 @@ Here are some of my influences on nutritional thought:
 - **sv3rige**
 - **Aajonus Vonderplanitz**
 
-[take me back to home]()
+[take me back to home](https://github.com/sjkoske/sjkoske.git)
