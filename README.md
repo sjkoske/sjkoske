@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sam Koske
 - 👀 I’m interested in [nutrition](https://github.com/sjkoske/sjkoske/blob/main/nutrition.md)
 - 🌱 I’m currently learning about [philosophy](https://github.com/sjkoske/sjkoske/blob/main/philosophy.md)
-- 💞️ I’m looking to collaborate on [workout plans]()
+- 💞️ I’m looking to collaborate on [workout plans](https://github.com/sjkoske/sjkoske/blob/main/workoutplans.md)
 - 📫 How to reach me: [contacts]()
 
 Here is a link to one some code I have written in [Python]()
