@@ -8,7 +8,7 @@ Here are some of my influences on nutritional thought:
 
 - **Weston A. Price**
 - **Ray Peat**
-- **sv3rige**
+- **sv3rige** [youtube channel](https://www.youtube.com/user/sv3rige)
 - **Aajonus Vonderplanitz**
 
 [take me back to home](https://github.com/sjkoske/sjkoske.git)
