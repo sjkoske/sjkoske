@@ -4,7 +4,9 @@ Overall, my thoughts on nutrition fall in line with the "Carnivore" or "Primal" 
 animal foods (preferably raw), with the *least* toxic plant foods. The importance of sunlight also cannot be understated for both your physical and mental health
 (which are connected). 
 
-Here are some of my influences on nutritional thought:
+![](https://github.com/sjkoske/sjkoske/blob/main/meat.jpg)
+
+## Here are some of my influences on nutritional thought:
 
 - **Weston A. Price**
 - **Ray Peat**
