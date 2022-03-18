@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sjkoske
+- 👋 Hi, I’m Sam Koske
 - 👀 I’m interested in [nutrition](https://github.com/sjkoske/sjkoske/blob/main/nutrition.md)
 - 🌱 I’m currently learning about [philosophy]()
 - 💞️ I’m looking to collaborate on [workout plans]()
