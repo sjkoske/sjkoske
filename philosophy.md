@@ -11,5 +11,5 @@ life to me , while I felt Nietzsche offered life and vitality. Perhaps we think 
 
 Schopenhauer is a bit harder to understand for me. I find him extremely humorous though, especially his essays on women and physiognomy. 
 
-[take me back to home]()
+[take me back to home](https://github.com/sjkoske/sjkoske.git)
 
