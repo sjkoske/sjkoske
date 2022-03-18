@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sjkoske
-- 👀 I’m interested in [nutrition]()
+- 👀 I’m interested in [nutrition](https://github.com/sjkoske/sjkoske/blob/main/nutrition.md)
 - 🌱 I’m currently learning about [philosophy]()
 - 💞️ I’m looking to collaborate on [workout plans]()
 - 📫 How to reach me: [contacts]()
